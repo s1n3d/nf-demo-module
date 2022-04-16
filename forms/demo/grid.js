@@ -38,21 +38,6 @@ export default class Login extends PlForm {
                     </pl-grid>
                 </pl-flex-layout>
                 </pl-tab>
-                <!--<pl-tab header="Дополнительный грид">
-                    <pl-flex-layout fit justify>
-                    <pl-grid data="{{test}}" on-dblclick="[[clickGrid2]]">
-                        <pl-grid-column sortable field="id" header="ИД" width="200" resizable></pl-grid-column>
-                        <pl-grid-column sortable field="username" header="Имя пользователя"></pl-grid-column>
-                        <pl-grid-column width="50" action>
-                            <template>
-                                <pl-flex-layout>
-                                    <pl-icon-button iconset="pl-default" size="16" icon="trashcan" on-click="[[deleteRow]]"></pl-icon-button>
-                                </pl-flex-layout>
-                            </template>
-                        </pl-grid-column>
-                    </pl-grid>
-                </pl-flex-layout>
-                </pl-tab>-->
             </pl-tabpanel>
             <pl-dropdown-menu id="ddMenuActions">
                 <pl-dropdown-menu-item label="Добавить" on-click="[[addRow]]"></pl-dropdown-menu-item>
