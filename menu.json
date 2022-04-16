@@ -1,0 +1,10 @@
+[
+  {
+    "caption":  "Демо форма",
+    "path":     "",
+    "form":     "demo.grid",
+    "icon": "catalog-2",
+    "guid":     "2781a160-409e-4aae-88f3-46323a6cd8f9",
+    "order":    1
+  }
+]

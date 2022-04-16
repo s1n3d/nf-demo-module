@@ -1,0 +1,12 @@
+{
+  "name": "demo",
+  "version": "0.0.1",
+  "description": "Demo project",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "author": {
+    "name": "Azat Yamalov",
+    "email": "yamalov.azat@live.com"
+  }
+}
